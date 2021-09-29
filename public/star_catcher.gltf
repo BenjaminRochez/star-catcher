@@ -1,0 +1,584 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 60,
+      "max": [
+        -0.24565686285495758,
+        0.03822603076696396,
+        0.16565200686454773
+      ],
+      "min": [
+        -0.3946923017501831,
+        -0.007154583930969238,
+        0.01376226544380188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 720,
+      "componentType": 5126,
+      "count": 60,
+      "max": [
+        0.9145739078521729,
+        0.999393880367279,
+        0.989690899848938
+      ],
+      "min": [
+        -0.9909585118293762,
+        -0.9995377659797668,
+        -0.9620900750160217
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 60,
+      "max": [
+        0.08753978461027145,
+        1.0,
+        0.9967171549797058,
+        1.0
+      ],
+      "min": [
+        -0.3748546242713928,
+        -1.0,
+        -0.9282874464988708,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 60,
+      "max": [
+        0.6753138899803162,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 108,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1440,
+      "componentType": 5126,
+      "count": 866,
+      "max": [
+        0.44494834542274475,
+        3.052785873413086,
+        -0.44490277767181396
+      ],
+      "min": [
+        -0.6439992189407349,
+        1.6454126834869385,
+        -1.637890338897705
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 11832,
+      "componentType": 5126,
+      "count": 866,
+      "max": [
+        1.0,
+        0.9907918572425842,
+        0.995268702507019
+      ],
+      "min": [
+        -1.0,
+        -0.9859962463378906,
+        -0.9987828135490417
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 960,
+      "componentType": 5126,
+      "count": 866,
+      "max": [
+        1.0,
+        0.9627447128295898,
+        0.9988594651222229,
+        1.0
+      ],
+      "min": [
+        -0.9999998807907104,
+        -0.9999974370002747,
+        -0.9986342191696167,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 480,
+      "componentType": 5126,
+      "count": 866,
+      "max": [
+        0.9951539039611816,
+        0.9867004156112671
+      ],
+      "min": [
+        0.005620181560516357,
+        0.12861448526382446
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 432,
+      "componentType": 5125,
+      "count": 2754,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 22224,
+      "componentType": 5126,
+      "count": 1808,
+      "max": [
+        0.9968205094337463,
+        3.8758180141448975,
+        0.7733516693115234
+      ],
+      "min": [
+        -1.0569084882736206,
+        1.1636605262756348,
+        -1.4632477760314941
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 43920,
+      "componentType": 5126,
+      "count": 1808,
+      "max": [
+        1.0,
+        0.9983165860176086,
+        0.9986767172813416
+      ],
+      "min": [
+        -1.0,
+        -0.9992973208427429,
+        -0.9984616637229919
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 14816,
+      "componentType": 5126,
+      "count": 1808,
+      "max": [
+        0.9999998807907104,
+        0.9996964931488037,
+        0.9996834993362427,
+        1.0
+      ],
+      "min": [
+        -0.9998359680175781,
+        -0.9997469186782837,
+        -0.998175323009491,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7408,
+      "componentType": 5126,
+      "count": 1808,
+      "max": [
+        0.9937220811843872,
+        0.9907170534133911
+      ],
+      "min": [
+        0.0105246901512146,
+        0.010258913040161133
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 11448,
+      "componentType": 5125,
+      "count": 8100,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "LisHard (https://sketchfab.com/lishard4)",
+      "license": "SKETCHFAB Editorial (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/star-catcher-ed7d83bd6eda4b51abe6a60924261e20",
+      "title": "Star Catcher"
+    },
+    "generator": "Sketchfab-11.43.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 43848,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21872,
+      "byteOffset": 43848,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 65616,
+      "byteOffset": 65720,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 43744,
+      "byteOffset": 131336,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 175080,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Star_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Star_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Star_emissive.jpeg"
+    },
+    {
+      "uri": "textures/Star_normal.png"
+    },
+    {
+      "uri": "textures/Backpack_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Backpack_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Backpack_normal.png"
+    },
+    {
+      "uri": "textures/Astronaut_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Astronaut_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Astronaut_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "name": "Star",
+      "normalTexture": {
+        "index": 3
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Backpack",
+      "normalTexture": {
+        "index": 6
+      },
+      "occlusionTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Astronaut",
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 8
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 7
+        },
+        "metallicRoughnessTexture": {
+          "index": 8
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Star_geo_Star_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Backpack_geo_Backpack_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Astronaut_geo_Astronaut_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.284763216972351,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.8527474093483797e-16,
+        -1.284763216972351,
+        0.0,
+        0.0,
+        1.284763216972351,
+        2.8527474093483797e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "StarCatcher_model.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.2226186680839655,
+        -5.538981199688464,
+        1.0646641457608126,
+        0.0,
+        4.803143532729526,
+        -0.3724179305611373,
+        -2.941852925308372,
+        0.0,
+        2.9569637599688954,
+        1.021946035583406,
+        4.6984436963463025,
+        0.0,
+        -0.28327301144599915,
+        1.3361536264419556,
+        0.44288960099220276,
+        1.0
+      ],
+      "name": "Star_geo"
+    },
+    {
+      "mesh": 0,
+      "name": "Star_geo_Star_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "Backpack_geo"
+    },
+    {
+      "mesh": 1,
+      "name": "Backpack_geo_Backpack_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "Astronaut_geo"
+    },
+    {
+      "mesh": 2,
+      "name": "Astronaut_geo_Astronaut_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    },
+    {
+      "sampler": 0,
+      "source": 9
+    }
+  ]
+}
