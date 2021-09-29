@@ -2,7 +2,7 @@ import * as THREE from "three";
 import React, { useRef, useState, Suspense } from "react";
 import { Canvas, createPortal, useFrame } from "@react-three/fiber";
 
-import Model from "./Scene";
+import Model from "./Astro";
 import Planet from "./Planet";
 import {
   useFBO,
